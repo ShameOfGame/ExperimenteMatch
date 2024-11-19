@@ -1,32 +1,30 @@
 ---
-title: Beitrag
-parent: Team Evaluation
+title: Beiträge
+parent: Team PetMatch
 nav_order: 4
 ---
 
-{: .label }
-[Jane Dane]
 
 {: .no_toc }
-# Summary of individual contributions
+# Zusammenfassung der individuellen Beiträge
 
 <details open markdown="block">
 {: .text-delta }
-<summary>Table of contents</summary>
+<summary>Inhaltsverzeichnis</summary>
 + ToC
 {: toc }
 </details>
 
-## [Jane Dane]
+## [Simone Heinrich]
 
-Contributions
+Beiträge
 : Lorem ipsum dolor
 : Consetetur sadipscing elitr
 : ...
 
-## [Joe Doe]
+## [Patryk Kujawski]
 
-Contributions
+Beiträge
 : Diam nonumy eirmod
 : Tempor invidunt ut labore
 : ...
