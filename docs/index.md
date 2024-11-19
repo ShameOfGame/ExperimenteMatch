@@ -1,34 +1,30 @@
 ---
-title: Home
+title: Startseite
 nav_order: 0
 ---
 
-{: .attention }
-> Any text enclosed by `[ ]` are placeholders, including the opening and closing brackets.
->
-> You may delete this `attention` box.
 
-# [Project Name]
+# [Team 7 PetMatch]
 
-[Project description]
+[Prokt Beschreibung]
 
 ## Team members
 
-### [Jane Dane]
+### [Simone Heinrich]
 
-About
-: Some info about Jane
-
-Matr.-Nr.
-: 1234567
-
-### [Joe Doe]
-
-About
-: Some info about Joe
+über
+:folgt im laufe des Projekts
 
 Matr.-Nr.
-: 1234567
+: 956881
+
+### [Patryk Kujawski]
+
+über
+:folgt im laufe des Projekts
+
+Matr.-Nr.
+: 961546
 
 ## Eidesstattliche Erklärung
 
