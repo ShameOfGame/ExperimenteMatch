@@ -1,3 +1,9 @@
+---
+title: Ideen und Ziele
+parent: Team Evaluation
+nav_order: 1
+---
+
 # Team 7: PetMatch
 
 **Gruppe:**  
