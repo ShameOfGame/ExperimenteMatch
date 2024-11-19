@@ -1,7 +1,7 @@
 ---
-title: Ideen und Ziele
+title: Ideen und persönliche Ziele
 parent: Team Beurteilung
-nav_order: 1
+nav_order: 5
 ---
 
 # Team 7: PetMatch
@@ -34,3 +34,10 @@ Wir möchten eine Webseite entwickeln, die sich auf Haustiere konzentriert. Die 
 - Mein Interesse liegt besonders darin, zu erfahren, wie die Daten für die Darstellung im Frontend in einer Datenbank gespeichert werden und wie diese Daten sowohl visuell präsentiert als auch interaktiv nutzbar gemacht werden können. Dabei frage ich mich, ob hier wieder das MVC-Designmuster Anwendung findet, das ich in OOP 2 faszinierend fand, oder ob es für komplexere Webanwendungen auch komplexere Architekturen oder Templates gibt.
 
 - Bisher habe ich im Kurs OOP 2 lediglich eine GUI mit Swing entwickelt, wobei die Anbindung an eine Datenbank nur sehr rudimentär war, da wir uns noch nicht mit Datenbanken beschäftigt hatten. In diesem Projekt möchte ich tiefer in die Full-Stack-Entwicklung eintauchen und besser verstehen, wie Datenbanken und Benutzeroberflächen effektiv miteinander interagieren.
+
+<details open markdown="block">
+{: .text-delta }
+<summary>Table of contents</summary>
++ ToC
+{: toc }
+</details>

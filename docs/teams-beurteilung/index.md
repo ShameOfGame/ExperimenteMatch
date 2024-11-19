@@ -1,10 +1,9 @@
 ---
 title: Team Beurteilung
 has_children: true
-nav_order: 5
+nav_order: 6
 ---
 
-{: .label }
-[Jane Dane]
+
 
 # Team Beurteilung

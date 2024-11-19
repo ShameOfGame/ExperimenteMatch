@@ -1,11 +1,9 @@
 ---
-title: Peer Review
+title: Team Reflexion
 parent: Team Beurteilung
 nav_order: 3
 ---
 
-{: .label }
-[Jane Dane]
 
 {: .no_toc }
 # Peer review
@@ -17,16 +15,16 @@ nav_order: 3
 {: toc }
 </details>
 
-## [team member] - review 1
+## [Simone Heinrich] - Reflexion 1
 
-### My observation (Wahrnehmung)
+### Meine Beobachtung (Wahrnehmung)
 
-[A specific observation, regarding know-how, effectiveness, team work or from another relevant area]
+[Eine spezifische Beobachtung, bezüglich Fachwissen, Effektivität, Teamarbeit oder aus einem anderen relevanten Bereich]
 
-### Effect on me (Wirkung)
+### Welche Wirkung hatte es auf mich (Wirkung)
 
-[What positive or negative effect did this observation have on the reviewer?]
+[Welchen positiven oder negativen Effekt hatte diese Beobachtung auf den Beurteiler?]
 
-### Tip for the future (Wunsch)
+### Empfehlungen für die Zukunft (Wunsch)
 
-[What should be changed or strengthened for the point of view of the reviewer?]
+[Was sollte aus Sicht des Beurteilers geändert oder gestärkt werden?]
