@@ -1,7 +1,7 @@
 ---
 title: Referenzen
-parent: Technical Docs
-nav_order: 3
+parent: Technische Dokumnete
+nav_order: 4
 ---
 
 
