@@ -1,6 +1,6 @@
 ---
 title: Ideen und Ziele
-parent: Team Evaluation
+parent: Team Beurteilung
 nav_order: 1
 ---
 

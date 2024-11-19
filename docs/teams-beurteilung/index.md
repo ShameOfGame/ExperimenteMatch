@@ -1,5 +1,5 @@
 ---
-title: Team Evaluation
+title: Team Beurteilung
 has_children: true
 nav_order: 5
 ---

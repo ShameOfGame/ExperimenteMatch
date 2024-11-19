@@ -1,6 +1,6 @@
 ---
 title: Beiträge
-parent: Team Evaluluation
+parent: Team Beurteilung
 nav_order: 4
 ---
 
