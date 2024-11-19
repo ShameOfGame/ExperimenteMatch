@@ -4,6 +4,13 @@ parent: Team Beurteilung
 nav_order: 5
 ---
 
+<details open markdown="block">
+{: .text-delta }
+<summary>Table of contents</summary>
++ ToC
+{: toc }
+</details>
+
 # Team 7: PetMatch
 
 **Gruppe:**  
@@ -35,12 +42,6 @@ Wir möchten eine Webseite entwickeln, die sich auf Haustiere konzentriert. Die 
 
 - Bisher habe ich im Kurs OOP 2 lediglich eine GUI mit Swing entwickelt, wobei die Anbindung an eine Datenbank nur sehr rudimentär war, da wir uns noch nicht mit Datenbanken beschäftigt hatten. In diesem Projekt möchte ich tiefer in die Full-Stack-Entwicklung eintauchen und besser verstehen, wie Datenbanken und Benutzeroberflächen effektiv miteinander interagieren.
 
-<details open markdown="block">
-{: .text-delta }
-<summary>Table of contents</summary>
-+ ToC
-{: toc }
-</details>
 
 # How Might We Fragen
 
