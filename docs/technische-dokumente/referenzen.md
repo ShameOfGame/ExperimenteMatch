@@ -1,9 +1,8 @@
 ---
 title: Referenzen
-parent: Technische Dokumnete
+parent: Technische Dokumente
 nav_order: 4
 ---
-
 
 
 {: .no_toc }

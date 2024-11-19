@@ -1,9 +1,8 @@
 ---
 title: Werteversprechen
-parent: Technische Dokumnete
-nav_order: 5
+parent: Technische Dokumente
+nav_order: 6
 ---
-
 
 {: .no_toc }
 # Werteversprechen

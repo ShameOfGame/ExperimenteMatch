@@ -1,11 +1,9 @@
 ---
 title: Quellen
-parent: Technische Dokumnete
-nav_order: 6
+parent: Technische Dokumente
+nav_order: 5
 ---
 
-{: .label }
-[Jane Dane]
 
 {: .no_toc }
 # Quellen
